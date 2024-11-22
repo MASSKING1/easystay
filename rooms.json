@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6734f16cdefc361a8fc9fc3b"
+  },
+  "name": "Mehran Hotel Upper Area Room",
+  "imageurls": [
+    "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/597f0e48823f8885.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/06883e94ec59702e.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/91dead74a5dffa61.jpg"
+  ],
+  "rentperday": 1500,
+  "type": "Deluxe",
+  "maxcount": 3,
+  "phonenumber": {
+    "$numberLong": "923329649271"
+  },
+  "currentbookings": [
+    {
+      "bookingid": {
+        "$oid": "673519aaca95636ef9dd9110"
+      },
+      "fromdate": "08-11-2024",
+      "todate": "16-11-2024",
+      "userid": "6735198cca95636ef9dd9109",
+      "status": "booked"
+    },
+    {
+      "bookingid": {
+        "$oid": "67351a15ca95636ef9dd911c"
+      },
+      "fromdate": "14-11-2024",
+      "todate": "23-11-2024",
+      "userid": "6735198cca95636ef9dd9109",
+      "status": "booked"
+    }
+  ],
+  "description": "Located in the Center of the City.",
+  "__v": 8,
+  "imageUrls": [],
+  "updatedAt": {
+    "$date": "2024-11-13T21:28:53.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6734f16cdefc361a8fc9fc3c"
+  },
+  "name": "Mehran Hotel Flagship Room",
+  "imageurls": [
+    "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/8e80e24a5496eb80.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/caef038a4b97b589.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/46bffe91d06dcb96.jpg"
+  ],
+  "rentperday": 1500,
+  "type": "Deluxe",
+  "maxcount": 3,
+  "phonenumber": {
+    "$numberLong": "9289649278"
+  },
+  "currentbookings": [],
+  "description": "Located in the Center of the City.",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6734f16cdefc361a8fc9fc3d"
+  },
+  "name": "Mehran Hotel Flagship Room",
+  "imageurls": [
+    "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/4488071a59d38cc5.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/d452b4897a767f6b.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/8f690e54761344e0.jpg"
+  ],
+  "rentperday": 2000,
+  "type": "Super-Deluxe",
+  "maxcount": 3,
+  "phonenumber": {
+    "$numberLong": "9289649278"
+  },
+  "currentbookings": [],
+  "description": "Located in the Center of the City."
+},
+{
+  "_id": {
+    "$oid": "6734f16cdefc361a8fc9fc3e"
+  },
+  "name": "Mehran Hotel Flagship Room",
+  "imageurls": [
+    "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/e225bbf160a11c02.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/d55361043c9b52af.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/2f7029d3c5429b5f.jpg"
+  ],
+  "rentperday": 1600,
+  "type": "Super-Deluxe",
+  "maxcount": 4,
+  "phonenumber": {
+    "$numberLong": "9289649278"
+  },
+  "currentbookings": [],
+  "description": "Located in the Center of the City."
+},
+{
+  "_id": {
+    "$oid": "6734f16cdefc361a8fc9fc3f"
+  },
+  "name": "Mehran Hotel Flagship Room",
+  "imageurls": [
+    "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/414e401312ad45a7.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/d24b920cfdddeecb.jpg",
+    "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/58025558878fa4ec.jpg"
+  ],
+  "rentperday": 1800,
+  "type": "Super-Deluxe",
+  "maxcount": 3,
+  "phonenumber": {
+    "$numberLong": "9289649278"
+  },
+  "currentbookings": [],
+  "description": "Located in the Center of the City.",
+  "__v": 2
+}]
